@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Treadmill Desk Race 🏃‍♂️</title>
+        <title>Treadmill Desk Race</title>
         <meta
           name="description"
           content="Online event where treadmill desk workers walk with each other."
