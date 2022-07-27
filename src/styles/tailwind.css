@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#play__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#play_container > a {
+    display: flex;
+}
+.playButton {
+  position: absolute;
+  font-size: 80px;
+}

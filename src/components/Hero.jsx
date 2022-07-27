@@ -20,9 +20,12 @@ export function Hero() {
           <div className="pt-10 sm:mt-10 sm:flex lg:mt-0 lg:grow lg:basis-0 lg:justify-center">
             <Button href="https://forms.gle/DbtmZ3tFFZVQ171y9" target="_blank">Sign Up!</Button>
           </div>
-          <div className="mt-6 space-y-6 font-display text-2xl tracking-tight text-blue-900">
-            <img src="/treadmill.gif" />
-          </div>
+          <a href="https://youtu.be/8bMt8M2moZ8?t=3" target="__blank">
+            <div id="play__container" className="mt-6 space-y-6 font-display text-2xl tracking-tight text-blue-900">
+              <img src="/treadmill.gif" />
+              <div className="playButton">  ▶️</div>
+            </div>
+          </a>
           <dl className="mt-10 grid grid-cols-2 gap-y-6 gap-x-10 sm:mt-16 sm:gap-y-10 sm:gap-x-16 sm:text-center lg:auto-cols-auto lg:grid-flow-col lg:grid-cols-none lg:justify-center lg:text-left">
             {[
               ['When', 'August 19th'],
