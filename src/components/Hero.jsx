@@ -28,7 +28,7 @@ export function Hero() {
           </a>
           <dl className="mt-10 grid grid-cols-2 gap-y-6 gap-x-10 sm:mt-16 sm:gap-y-10 sm:gap-x-16 sm:text-center lg:auto-cols-auto lg:grid-flow-col lg:grid-cols-none lg:justify-center lg:text-left">
             {[
-              ['When', 'August 19th'],
+              ['When', 'September 23rd'],
               ['Venue', 'Your treadmill'],
               ['Location', 'Zoom'],
             ].map(([name, value]) => (
