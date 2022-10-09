@@ -14,7 +14,7 @@ export function Hero() {
           </h1>
           <div className="mt-6 space-y-6 font-display text-2xl tracking-tight text-blue-900">
             <p>
-              Do you work from a treadmill desk? Join us on <strong>September 23rd</strong> for the <strong>second</strong> virtual treadmill race! Free to join. Win bragging rights and meet others who like to work and walk just like you!
+              Do you work from a treadmill desk? Join us on <strong>January 20th</strong> for the <strong>second</strong> virtual treadmill race! Free to join. Win bragging rights and meet others who like to work and walk just like you!
             </p>
           </div>
           <div className="pt-10 sm:mt-10 sm:flex lg:mt-0 lg:grow lg:basis-0 lg:justify-center">
@@ -28,7 +28,7 @@ export function Hero() {
           </a>
           <dl className="mt-10 grid grid-cols-2 gap-y-6 gap-x-10 sm:mt-16 sm:gap-y-10 sm:gap-x-16 sm:text-center lg:auto-cols-auto lg:grid-flow-col lg:grid-cols-none lg:justify-center lg:text-left">
             {[
-              ['When', 'September 23rd'],
+              ['When', 'January 20th'],
               ['Venue', 'Your treadmill'],
               ['Location', 'Zoom'],
             ].map(([name, value]) => (
