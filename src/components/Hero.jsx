@@ -14,7 +14,7 @@ export function Hero() {
           </h1>
           <div className="mt-6 space-y-6 font-display text-2xl tracking-tight text-blue-900">
             <p>
-              Do you work from a treadmill desk? Join us for the<strong>fourth</strong> virtual treadmill race! Free to join. Win bragging rights and meet others who like to work and walk just like you!
+              Do you work from a treadmill desk? Join us for the <strong>fourth</strong> virtual treadmill race! Free to join. Win bragging rights and meet others who like to work and walk just like you!
             </p>
           </div>
           <div className="pt-10 sm:mt-10 sm:flex lg:mt-0 lg:grow lg:basis-0 lg:justify-center">
